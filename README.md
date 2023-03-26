@@ -55,7 +55,7 @@ GraphQL [Server](https://github.com/jvelezmagic/cultivate-server)
 | React.js         | JavaScript library                            |
 | Nest.js           | A progressive Node.js framework for building efficient and scalable server-side applications.                     |
 | Prisma          | Prisma is an open-source ORM for Node.js and TypeScript                      |
-| GraphQL           | GraphQL is an open-source data query language                     |
+| [GraphQL](https://github.com/jvelezmagic/cultivate-server)          | GraphQL is an open-source data query language                     |
 | PostgreSQL           | Open source object-relational database system                      |
 | Redis           | Versatile in-memory data structures enable building data infrastructure                     |
 
