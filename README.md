@@ -1,5 +1,5 @@
 <!-- PROJECT TITLE -->
-  <h1 align="center">CULTIVATE</h1>
+  <h1 align="center">CultiVate</h1>
  <h2 2 align="center">
     Simplifying company cultural fit
     <br />
