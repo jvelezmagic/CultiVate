@@ -14,10 +14,10 @@ export default function Index() {
           <div className="w-full md:w-8/12 lg:w-6/12 xl:w-6/12 px-4">
             <div className="pt-32 sm:pt-0">
               <h2 className="font-semibold text-4xl text-blueGray-600">
-              Cultivate - Where culture meets talent...perfecting the fit."
+              CultiVate - where culture meets talent...perfecting the fit.
               </h2>
               <p className="mt-4 text-lg leading-relaxed text-blueGray-500">
-              The company specializes in matching candidates with employers based on cultural fit,
+              A web tool that specializes in matching candidates with employers based on cultural fit,
               {" "}
               
               ensuring a harmonious and productive work environment.

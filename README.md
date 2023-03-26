@@ -12,7 +12,7 @@ a conversational chatbot for recruiters and candidates to test culture fit.
 ## Table of Contents
 
 <details>
-<summary>CULTIVATE</summary>
+<summary>CultiVate</summary>
 
 - [Application Description](#application-description)
 - [Table of Contents](#table-of-contents)
@@ -41,7 +41,11 @@ View the Demo [App](https://cultivate-pink.vercel.app/)
 | Material-UI      | React UI library                              |
 | TypeScript       | Object-oriented language                      |
 | React.js         | JavaScript library                            |
-| Docker           | Containerization platform                     |
+| Nest.js           | A progressive Node.js framework for building efficient and scalable server-side applications.                     |
+| Prisma          | Prisma is an open-source ORM for Node.js and TypeScript                      |
+| GraphQL           | GraphQL is an open-source data query language                     |
+| PostgreSQL           | Open source object-relational database system                      |
+| Redis           | Versatile in-memory data structures enable building data infrastructure                     |
 
 ## Features
 
@@ -72,6 +76,7 @@ $ git clone https://github.com/iffyaiyan/Team101.git
 | --------------- | -------------------------------------- |
 | Sandra Ashipala | https://www.linkedin.com/in/sandraashipala/ |
 | Irfan Mansuri | https://www.linkedin.com/in/irfan-mansuri-130687180/ |
+| J. Velez Magic | https://github.com/jvelezmagic |
 | NAME | https://github.com/NAME |
 
 ## License
