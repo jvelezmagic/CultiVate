@@ -1,5 +1,5 @@
 <!-- PROJECT TITLE -->
-  <h1 align="center">APPNAME</h1>
+  <h1 align="center">CULTIVATE</h1>
  <h2 2 align="center">
     Simplifying company cultural fit
     <br />
@@ -12,7 +12,7 @@ a conversational chatbot for recruiters and candidates to test culture fit.
 ## Table of Contents
 
 <details>
-<summary>APPNAME</summary>
+<summary>CULTIVATE</summary>
 
 - [Application Description](#application-description)
 - [Table of Contents](#table-of-contents)
@@ -29,7 +29,7 @@ a conversational chatbot for recruiters and candidates to test culture fit.
 
 ## Project Demo
 
-View the Demo on [YouTube](https://LINK)
+View the Demo [App](https://cultivate-pink.vercel.app/)
 
 ## Screenshots
 
