@@ -86,12 +86,20 @@ export default function Login() {
                   </div>
 
                   <div className="text-center mt-6">
+                  <Link
+              to="/admin"
+              className="text-blueGray-700 text-sm font-bold leading-relaxed inline-block mr-4 py-2 whitespace-nowrap uppercase"
+            >
                     <button
                       className="bg-blueGray-800 text-white active:bg-blueGray-600 text-sm font-bold uppercase px-6 py-3 rounded shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 w-full ease-linear transition-all duration-150"
                       type="button"
                     >
-                      Sign In
+             
+              Sign In
+           
+                      
                     </button>
+                    </Link>
                   </div>
                 </form>
               </div>

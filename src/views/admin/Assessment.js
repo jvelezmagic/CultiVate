@@ -2,14 +2,14 @@ import React from "react";
 
 // components
 
-import CardTable from "components/Cards/CardTable.js";
+import CardAssessment from "components/Cards/CardAssessment.js";
 
-export default function Tables() {
+export default function Assessments() {
   return (
     <>
       <div className="flex flex-wrap mt-4">
         <div className="w-full mb-12 px-4">
-          <CardTable />
+          <CardAssessment />
         </div>
       </div>
     </>

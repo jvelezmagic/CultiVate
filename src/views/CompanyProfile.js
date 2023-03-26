@@ -3,7 +3,7 @@ import React from "react";
 import Navbar from "components/Navbars/AuthNavbar.js";
 import Footer from "components/Footers/Footer.js";
 
-export default function Profile() {
+export default function CompanyProfile() {
   return (
     <>
       <Navbar transparent />
@@ -72,7 +72,7 @@ export default function Profile() {
                           22
                         </span>
                         <span className="text-sm text-blueGray-400">
-                          Friends
+                          SHORT LISTED CANDIDATES
                         </span>
                       </div>
                       <div className="mr-4 p-3 text-center">
@@ -80,15 +80,7 @@ export default function Profile() {
                           10
                         </span>
                         <span className="text-sm text-blueGray-400">
-                          Photos
-                        </span>
-                      </div>
-                      <div className="lg:mr-4 p-3 text-center">
-                        <span className="text-xl font-bold block uppercase tracking-wide text-blueGray-600">
-                          89
-                        </span>
-                        <span className="text-sm text-blueGray-400">
-                          Comments
+                          PENDING CULTURE FIT REVIEWS
                         </span>
                       </div>
                     </div>
@@ -96,7 +88,7 @@ export default function Profile() {
                 </div>
                 <div className="text-center mt-12">
                   <h3 className="text-4xl font-semibold leading-normal mb-2 text-blueGray-700 mb-2">
-                    Jenna Stones
+                    Strata Investments & Co.
                   </h3>
                   <div className="text-sm leading-normal mt-0 mb-2 text-blueGray-400 font-bold uppercase">
                     <i className="fas fa-map-marker-alt mr-2 text-lg text-blueGray-400"></i>{" "}
@@ -104,22 +96,17 @@ export default function Profile() {
                   </div>
                   <div className="mb-2 text-blueGray-600 mt-10">
                     <i className="fas fa-briefcase mr-2 text-lg text-blueGray-400"></i>
-                    Solution Manager - Creative Tim Officer
-                  </div>
-                  <div className="mb-2 text-blueGray-600">
-                    <i className="fas fa-university mr-2 text-lg text-blueGray-400"></i>
-                    University of Computer Science
+                   Leading Software Angel Investors - Bay Area
                   </div>
                 </div>
                 <div className="mt-10 py-10 border-t border-blueGray-200 text-center">
                   <div className="flex flex-wrap justify-center">
                     <div className="w-full lg:w-9/12 px-4">
                       <p className="mb-4 text-lg leading-relaxed text-blueGray-700">
-                        An artist of considerable range, Jenna the name taken by
-                        Melbourne-raised, Brooklyn-based Nick Murphy writes,
-                        performs and records all of his own music, giving it a
-                        warm, intimate feel with a solid groove structure. An
-                        artist of considerable range.
+                      The company's culture is driven by collaboration and innovation, with a focus on empowering employees
+                       to take ownership of their work. Open communication and transparency are highly valued, and the company strives
+                        to maintain a supportive and inclusive environment where everyone feels heard and respected. Additionally, work-life 
+                        balance is promoted through flexible scheduling and wellness initiatives.
                       </p>
                       <a
                         href="#pablo"
