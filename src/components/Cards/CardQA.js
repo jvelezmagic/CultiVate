@@ -5,7 +5,7 @@ import PropTypes from "prop-types";
 
 import TableDropdown from "components/Dropdowns/TableDropdown.js";
 
-export default function CardTable({ color }) {
+export default function CardQA({ color }) {
   return (
     <>
       <div
@@ -58,7 +58,11 @@ export default function CardTable({ color }) {
                     }
                   >
                         <div class="input-group input-group-dynamic">
-                        <input type="text" class="form-control width-full" />
+                        <input
+                            type="text"
+                            className="border-0 px-3 py-3 placeholder-blueGray-300 text-blueGray-600 bg-white rounded text-sm shadow focus:outline-none focus:ring w-full ease-linear transition-all duration-150"
+                            defaultValue="input your response here..."
+                          />
                       </div>
                   </span>
                 </th>
@@ -90,7 +94,11 @@ export default function CardTable({ color }) {
                     }
                   >
                         <div class="input-group input-group-dynamic">
-                        <input type="text" class="form-control width-full" />
+                        <input
+                            type="text"
+                            className="border-0 px-3 py-3 placeholder-blueGray-300 text-blueGray-600 bg-white rounded text-sm shadow focus:outline-none focus:ring w-full ease-linear transition-all duration-150"
+                            defaultValue="input your response here..."
+                          />
                       </div>
                   </span>
                 </th>
@@ -122,43 +130,18 @@ export default function CardTable({ color }) {
                     }
                   >
                         <div class="input-group input-group-dynamic">
-                        <input type="text" class="form-control width-full" />
+                        <input
+                            type="text"
+                            className="border-0 px-3 py-3 placeholder-blueGray-300 text-blueGray-600 bg-white rounded text-sm shadow focus:outline-none focus:ring w-full ease-linear transition-all duration-150"
+                            defaultValue="input your response here..."
+                          />
                       </div>
                   </span>
                 </th>
               </tr>
 
-              <tr>
-                <th className="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap p-4 text-left flex items-center">
-                  <p
-                   className=" text-orange-500">Question</p>{" "}
-                <span
-                    className={
-                      "ml-3 font-bold " +
-                      +(color === "light" ? "text-blueGray-600" : "text-white")
-                    }
-                  >
-                    Have you ever had to work with someone who had a different communication style than you? How did you handle that situation?
-                  </span>
-                </th>
-              </tr>
 
-              <tr>
-                <th className="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap p-4 text-left flex items-center">
-                  <p
-                   className=" text-emerald-500">Answer</p>{" "}
-                <span
-                    className={
-                      "ml-3 font-bold " +
-                      +(color === "light" ? "text-blueGray-600" : "text-white")
-                    }
-                  >
-                        <div class="input-group input-group-dynamic">
-                        <input type="text" class="form-control width-full" />
-                      </div>
-                  </span>
-                </th>
-              </tr>
+    
             </tbody>
           </table>
         </div>
@@ -167,10 +150,10 @@ export default function CardTable({ color }) {
   );
 }
 
-CardTable.defaultProps = {
+CardQA.defaultProps = {
   color: "light",
 };
 
-CardTable.propTypes = {
+CardQA.propTypes = {
   color: PropTypes.oneOf(["light", "dark"]),
 };

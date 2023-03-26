@@ -170,7 +170,7 @@ export default function CardSettings() {
                   <textarea
                     type="text"
                     className="border-0 px-3 py-3 placeholder-blueGray-300 text-blueGray-600 bg-white rounded text-sm shadow focus:outline-none focus:ring w-full ease-linear transition-all duration-150"
-                    defaultValue="A beautiful UI Kit and Admin for React & Tailwind CSS. It is Free and Open Source."
+                    defaultValue="As a candidate, I am seeking a company that values a culture of inclusivity, teamwork, and open communication, where I can feel comfortable being myself and have opportunities for personal and professional growth."
                     rows="4"
                   ></textarea>
                 </div>
