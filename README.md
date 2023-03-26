@@ -1,5 +1,5 @@
 <!-- PROJECT TITLE -->
-  <h1 align="center">CULTIVATE</h1>
+  <h1 align="center">CultiVate</h1>
  <h2 2 align="center">
     Simplifying company cultural fit
     <br />
@@ -75,7 +75,7 @@ $ git clone https://github.com/sandramsc/APPNAME.git
 | Name            | Link                                   |
 | --------------- | -------------------------------------- |
 | Sandra Ashipala | https://www.linkedin.com/in/sandraashipala/ |
-| NAME | https://github.com/NAME |
+| Irfan Mansuri | https://www.linkedin.com/in/irfan-mansuri-130687180/ |
 | NAME | https://github.com/NAME |
 
 ## License
