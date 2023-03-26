@@ -27,6 +27,11 @@ export default function CardQA({ color }) {
               </h3>
             </div>
           </div>
+          <a href="https://cultivate-server-production.up.railway.app/graphql">
+              <button class="px-4 py-2 font-semibold text-white bg-orange-500 rounded hover:bg-orange-600">
+                Try the Demo in the GraphQL Playground
+              </button>
+            </a>
         </div>
         <div className="block w-full overflow-x-auto">
           {/* Projects table */}
