@@ -70,7 +70,7 @@ GraphQL [Server](https://github.com/jvelezmagic/cultivate-server)
 **Step #1** - Clone the project
 
 ```bash
-$ git clone https://github.com/iffyaiyan/Team101.git
+$ git clone https://github.com/sandramsc/CultiVate.git
 ```
 
 **Step #2**
@@ -91,4 +91,4 @@ $ git clone https://github.com/iffyaiyan/Team101.git
 
 ## License
 
-[![GitLicense](https://img.shields.io/badge/License-MIT-lime.svg)](https://github.com/sandramsc/APPNAME/blob/main/LICENSE)
+[![GitLicense](https://img.shields.io/badge/License-MIT-lime.svg)](https://github.com/sandramsc/CultiVate/blob/master/LICENSE.md)
