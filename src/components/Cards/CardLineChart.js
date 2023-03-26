@@ -17,14 +17,14 @@ export default function CardLineChart() {
         ],
         datasets: [
           {
-            label: new Date().getFullYear(),
+            label: "Candidate",
             backgroundColor: "#4c51bf",
             borderColor: "#4c51bf",
             data: [65, 78, 66, 44, 56, 67, 75],
             fill: false,
           },
           {
-            label: new Date().getFullYear() - 1,
+            label: "Company",
             fill: false,
             backgroundColor: "#fff",
             borderColor: "#fff",
