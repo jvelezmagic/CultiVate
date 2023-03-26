@@ -57,11 +57,13 @@ GraphQL [Server](https://github.com/jvelezmagic/cultivate-server)
 
 ## Features
 
-1. FEATURE X
+1. An automatic interview summary for each candidate.
 
-2. FEATURE Y
+2. Highlighting their strengths and weaknesses.
 
-3. FEATURE Z
+3. A set of metrics that help recruiters make informed hiring decisions based on data, not opinions.
+
+4. These features significantly reduce the risk of bias in the hiring process, promoting fairness and inclusion.
 
 ## How to use the app
 
