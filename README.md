@@ -56,7 +56,7 @@ View the Demo [App](https://cultivate-pink.vercel.app/)
 **Step #1** - Clone the project
 
 ```bash
-$ git clone https://github.com/sandramsc/APPNAME.git
+$ git clone https://github.com/iffyaiyan/Team101.git
 ```
 
 **Step #2**
@@ -64,10 +64,6 @@ $ git clone https://github.com/sandramsc/APPNAME.git
 - Install dependencies in both frontend and backend folders: `npm i` OR `yarn`
 
 - To start the webapp, run: `npm start` OR `yarn start`
-
-**Step #3**
-
-- To test contract, run backend folder: `npm hardhat test` OR `yarn hardhat test`
 
 
 ## Authors
