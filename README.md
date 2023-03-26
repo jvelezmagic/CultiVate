@@ -75,7 +75,7 @@ $ git clone https://github.com/sandramsc/APPNAME.git
 | Name            | Link                                   |
 | --------------- | -------------------------------------- |
 | Sandra Ashipala | https://www.linkedin.com/in/sandraashipala/ |
-| NAME | https://github.com/NAME |
+| NAME | https://github.com/iffyaiyan |
 | NAME | https://github.com/NAME |
 
 ## License
