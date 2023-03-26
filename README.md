@@ -90,7 +90,7 @@ $ git clone https://github.com/sandramsc/CultiVate.git
 | --------------- | -------------------------------------- |
 | Sandra Ashipala | https://www.linkedin.com/in/sandraashipala/ |
 | Irfan Mansuri | https://www.linkedin.com/in/irfan-mansuri-130687180/ |
-| J. Velez Magic | https://github.com/jvelezmagic |
+| Jesús Vélez Santiago | https://github.com/jvelezmagic |
 
 ## License
 
