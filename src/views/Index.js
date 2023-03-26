@@ -14,36 +14,23 @@ export default function Index() {
           <div className="w-full md:w-8/12 lg:w-6/12 xl:w-6/12 px-4">
             <div className="pt-32 sm:pt-0">
               <h2 className="font-semibold text-4xl text-blueGray-600">
-                Notus React - A beautiful extension for Tailwind CSS.
+              Cultivate - Where culture meets talent...perfecting the fit."
               </h2>
               <p className="mt-4 text-lg leading-relaxed text-blueGray-500">
-                Notus React is Free and Open Source. It does not change any of
-                the CSS from{" "}
-                <a
-                  href="https://tailwindcss.com/?ref=creativetim"
-                  className="text-blueGray-600"
-                  target="_blank"
-                >
-                  Tailwind CSS
-                </a>
-                . It features multiple HTML elements and it comes with dynamic
-                components for ReactJS, Vue and Angular.
+              The company specializes in matching candidates with employers based on cultural fit,
+              {" "}
+              
+              ensuring a harmonious and productive work environment.
               </p>
               <div className="mt-12">
                 <a
-                  href="https://www.creative-tim.com/learning-lab/tailwind/react/overview/notus?ref=nr-index"
+                  href="#"
                   target="_blank"
                   className="get-started text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-lightBlue-500 active:bg-lightBlue-600 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
                 >
                   Get started
                 </a>
-                <a
-                  href="https://github.com/creativetimofficial/notus-react?ref=nr-index"
-                  className="github-star ml-1 text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-blueGray-700 active:bg-blueGray-600 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
-                  target="_blank"
-                >
-                  Github Star
-                </a>
+          
               </div>
             </div>
           </div>
@@ -79,18 +66,15 @@ export default function Index() {
                   Working with us is a pleasure
                 </h3>
                 <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600">
-                  Don't let your uses guess by attaching tooltips and popoves to
-                  any element. Just make sure you enable them first via
-                  JavaScript.
+                We believe that culture fit is essential for the long-term success of any organization, and our team of experts has years of experience in assessing
+                 both candidates and companies to ensure that we find the perfect match.
                 </p>
                 <p className="text-lg font-light leading-relaxed mt-0 mb-4 text-blueGray-600">
-                  The kit comes with three pre-built pages to help you get
-                  started faster. You can change the text and images and you're
-                  good to go. Just make sure you enable them first via
-                  JavaScript.
+                We believe that culture fit is essential for the long-term success of any organization, and our team of experts has years of experience in assessing 
+                both candidates and companies to ensure that we find the perfect match.
                 </p>
                 <Link to="/" className="font-bold text-blueGray-700 mt-8">
-                  Check Notus React!
+                  Learn More!
                 </Link>
               </div>
 
@@ -114,12 +98,11 @@ export default function Index() {
                       ></polygon>
                     </svg>
                     <h4 className="text-xl font-bold text-white">
-                      Top Notch Services
+                      Top Notch Hiring Tool
                     </h4>
                     <p className="text-md font-light mt-2 text-white">
-                      The Arctic Ocean freezes every winter and much of the
-                      sea-ice then thaws every summer, and that process will
-                      continue whatever happens.
+                    We take pride in providing top-notch service to both our clients and candidates, and we're 
+                    committed to ensuring that you're completely satisfied with our services.
                     </p>
                   </blockquote>
                 </div>
@@ -163,11 +146,10 @@ export default function Index() {
                   <div className="text-lightBlue-600 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-lightBlue-300">
                     <i className="fas fa-rocket text-xl"></i>
                   </div>
-                  <h3 className="text-3xl font-semibold">A growing company</h3>
+                  <h3 className="text-3xl font-semibold">Why Us</h3>
                   <p className="mt-4 text-lg leading-relaxed text-blueGray-500">
-                    The extension comes with three pre-built pages to help you
-                    get started faster. You can change the text and images and
-                    you're good to go.
+                  We understand that finding the right fit for your company can be a daunting task, 
+                  and that's why we're here to help.
                   </p>
                   <ul className="list-none mt-6">
                     <li className="py-2">
@@ -179,7 +161,7 @@ export default function Index() {
                         </div>
                         <div>
                           <h4 className="text-blueGray-500">
-                            Carefully crafted components
+                          Improved Employee Retention
                           </h4>
                         </div>
                       </div>
@@ -193,7 +175,7 @@ export default function Index() {
                         </div>
                         <div>
                           <h4 className="text-blueGray-500">
-                            Amazing page examples
+                          Increased Productivity
                           </h4>
                         </div>
                       </div>
@@ -207,7 +189,7 @@ export default function Index() {
                         </div>
                         <div>
                           <h4 className="text-blueGray-500">
-                            Dynamic components
+                          Better Team Dynamics
                           </h4>
                         </div>
                       </div>
@@ -223,11 +205,9 @@ export default function Index() {
           <div className="container mx-auto px-4">
             <div className="flex flex-wrap justify-center text-center mb-24">
               <div className="w-full lg:w-6/12 px-4">
-                <h2 className="text-4xl font-semibold">Here are our heroes</h2>
+                <h2 className="text-4xl font-semibold">TESTIMONIALS</h2>
                 <p className="text-lg leading-relaxed m-4 text-blueGray-500">
-                  According to the National Oceanic and Atmospheric
-                  Administration, Ted, Scambos, NSIDClead scentist, puts the
-                  potentially record maximum.
+                Read about the experiences of our satisfied customers
                 </p>
               </div>
             </div>
@@ -243,6 +223,9 @@ export default function Index() {
                     <h5 className="text-xl font-bold">Ryan Tompson</h5>
                     <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">
                       Web Developer
+                    </p>
+                    <p className="mt-1 text-sm text-blueGray-600 font-semibold">
+                    "Found my dream job with perfect culture fit!"
                     </p>
                     <div className="mt-6">
                       <button
@@ -279,6 +262,9 @@ export default function Index() {
                     <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">
                       Marketing Specialist
                     </p>
+                    <p className="mt-1 text-sm text-blueGray-600 font-semibold">
+                    "Improved employee engagement and retention."
+                    </p>
                     <div className="mt-6">
                       <button
                         className="bg-red-600 text-white w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
@@ -306,7 +292,10 @@ export default function Index() {
                   <div className="pt-6 text-center">
                     <h5 className="text-xl font-bold">Alexa Smith</h5>
                     <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">
-                      UI/UX Designer
+                      Technical Recruiter
+                    </p>
+                    <p className="mt-1 text-sm text-blueGray-600 font-semibold">
+                    "Hiring process streamlined and much more efficient."
                     </p>
                     <div className="mt-6">
                       <button
@@ -342,6 +331,9 @@ export default function Index() {
                     <h5 className="text-xl font-bold">Jenna Kardi</h5>
                     <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">
                       Founder and CEO
+                    </p>
+                    <p className="mt-1 text-sm text-blueGray-600 font-semibold">
+                    "Improved employee engagement and retention."
                     </p>
                     <div className="mt-6">
                       <button
