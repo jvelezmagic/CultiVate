@@ -40,11 +40,11 @@ How to Set Up and Complete an Interview on [Cultivate](https://scribehow.com/sha
 GraphQL [Server](https://github.com/jvelezmagic/cultivate-server)
 
 ## Screenshots
+![y1](https://user-images.githubusercontent.com/19821445/227799975-9c7c051f-7cd3-40a3-963f-14ffc3e1a811.PNG)
+![y2](https://user-images.githubusercontent.com/19821445/227799980-44275470-8aa4-4769-8581-3ca8a9d14c02.PNG)
 ![y3](https://user-images.githubusercontent.com/19821445/227799959-5ab94f2a-26a6-491a-82ba-b229a0b24ef3.PNG)
 ![rsz_1y4](https://user-images.githubusercontent.com/19821445/227801339-4229344e-15af-4751-a215-b00c7b9d8637.png)
 ![y5](https://user-images.githubusercontent.com/19821445/227799970-572f85d0-0ada-4889-9896-2fea94d1d5c8.PNG)
-![y1](https://user-images.githubusercontent.com/19821445/227799975-9c7c051f-7cd3-40a3-963f-14ffc3e1a811.PNG)
-![y2](https://user-images.githubusercontent.com/19821445/227799980-44275470-8aa4-4769-8581-3ca8a9d14c02.PNG)
 
 ## Technology Stack
 
