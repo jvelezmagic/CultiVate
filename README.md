@@ -27,9 +27,13 @@ a conversational chatbot for recruiters and candidates to test culture fit.
 
 </details>
 
-## Project Demo
+## Video Demo
 
 View the Demo [App](https://cultivate-pink.vercel.app/)
+
+## Project Demo
+
+How to Set Up and Complete an Interview on [Cultivate](https://scribehow.com/shared/How_to_Set_Up_and_Complete_an_Interview_on_Cultivate_by_jvelezmagic__HrZYmq-dRQSvOJRKYE7ffg)
 
 ## Screenshots
 
